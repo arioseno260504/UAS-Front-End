@@ -1,10 +1,10 @@
 # DEPLOYMENT.md
 
 ## Nama Aplikasi
-Nama: <Isi nama aplikasi kamu>
+Nama: UAS Frontend
 
 ## URL Publik
-- Live site: https://<your-app-url>.vercel.app   (atau netlify.app)
+- Live site: https://uas-frontend-iota.vercel.app/
 
 ## Ringkasan
 Aplikasi ini dibuat menggunakan React + Vite dan menggunakan API publik: https://jsonplaceholder.typicode.com untuk menampilkan daftar todo / posting.

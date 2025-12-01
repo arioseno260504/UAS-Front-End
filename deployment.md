@@ -31,3 +31,5 @@ Saya deploy menggunakan **Vercel** karena integrasinya dengan GitHub sangat muda
 
 ## Notes
 - Jika memakai environment variable, atur di Vercel/Netlify pada Settings > Environment Variables.
+<img width="1920" height="1032" alt="Tampilan mobile (2)" src="https://github.com/user-attachments/assets/6efd6517-3d72-4c75-9f84-17460ba5551a" />
+<img width="1920" height="1032" alt="Tampilan desktop" src="https://github.com/user-attachments/assets/bdb7c936-40aa-4e41-92ae-1153fd7be670" />
